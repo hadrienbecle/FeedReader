@@ -337,11 +337,11 @@ msgstr "InoReader"
 
 #: ../src/Widgets/LoginPage.vala:51
 msgid "Where are your feeds?"
-msgstr "Ou sont vos flux ?"
+msgstr "Où sont vos flux ?"
 
 #: ../src/Widgets/LoginPage.vala:55
 msgid "Please select the RSS service you are using and log in to get going."
-msgstr "Sélectionner le service de flux RSS que vous utilisez et connectez-vous pour y accéder."
+msgstr "Sélectionnez le service de flux RSS que vous utilisez et connectez-vous pour continuer."
 
 #: ../src/Widgets/LoginPage.vala:131
 msgid "No service selected."
